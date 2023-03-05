@@ -17,6 +17,9 @@
  <img src= "https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"  title="C" alt="C" width="40" height="40"/>&nbsp;
  <img src= "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5"  alt="HTML5"  width="40" height="40"/>&nbsp;
  <img src= "https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="Intellij" alt="Intellij" width="40" height="40"/>&nbsp;
+ <img src = "https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-line.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
+ <img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
+  
   
 </div>
 <!--
