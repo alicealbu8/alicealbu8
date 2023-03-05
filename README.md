@@ -5,8 +5,8 @@
 </div>
 
 ### :woman_technologist: About Me : 
-I am a Computer Science and Mathematics student at Babeș-Bolyai University 
-📫 How to reach me: aa7554651@gmail.com
+-I am a Computer Science and Mathematics student at Babeș-Bolyai University 
+-📫 How to reach me: aa7554651@gmail.com
 
 <!--
 **alicealbu8/alicealbu8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
